@@ -1,17 +1,17 @@
 # Journal Mastering SQL - Full Stack Developer
 
-repository ini berisi materi yang saya pelajari tentang SQL. sebagai salah satu hal yang membuat perjalana menjadi full stack developer saya menjadi lebih bagus tentu nya saya perlu mmpelajari SQL sebagai bagian dari backend. sya berharpa bisa mempelajarinya dengan baik dan tidka membuat beban untuk syaa.
+This repository contains the material I've learned about SQL. As one of the things that will improve my journey to becoming a full-stack developer, I naturally need to learn SQL as part of the backend. I hope I can learn it well and it won't become a burden for me.
 
-sumber materi:
+Learning Sources;
 
 [bearmentor]()
 [Udemy: SQL - The Complete Developer's Guide (MySQL, PostgreSQL)](https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/?couponCode=PLOYALTY0923)
 
 ## Final Goal
 
-- mempunyai pengetahuan yang baik tentang data base
-- memngoperasi kan sql dengan benar
-- menjadi full stack developer
+- have good knowledge of data bases
+- operate SQL correctly
+- become a full stack developer
 
 | Section | Topics                                                       | Status | Notes           |
 | ------- | ------------------------------------------------------------ | ------ | --------------- |
