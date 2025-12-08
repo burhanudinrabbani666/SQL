@@ -15,8 +15,8 @@ Learning Sources;
 
 | Section | Topics                                                       | Status | Notes           |
 | ------- | ------------------------------------------------------------ | ------ | --------------- |
-| 1       | [What is SQL](./topics/section-1/)                           | ✍️     | 8 December 2025 |
-| 2       | SQL Basics: Syntax & Core Features                           | ⏳     |                 |
+| 1       | [What is SQL](./topics/section-1/)                           | ✅     | 8 December 2025 |
+| 2       | [SQL Basics: Syntax & Core Features](./topics/section-2/)    | ✍️     |                 |
 | 3       | Course Setup: Installing MySQL & Postgresql                  | ⏳     |                 |
 | 4       | Data Definition: Managing Tables & Working With Data Types   | ⏳     |                 |
 | 5       | Data Manipulation & Querying: CRUD Operations With SQL       | ⏳     |                 |
