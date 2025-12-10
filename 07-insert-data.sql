@@ -10,4 +10,5 @@
 
 
 INSERT INTO conversations (user_name, employer_name, user_message, date_sent) 
-VALUES('Jin Kazama', 'PT SIMNU', 'Adili jokowi', '2025-12-10 22:57:10')
+VALUES('Jin Kazama', 'PT SIMNU', 'Adili jokowi', '2025-12-10 22:57:10');
+
